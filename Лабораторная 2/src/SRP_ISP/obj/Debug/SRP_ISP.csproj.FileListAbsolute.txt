@@ -1,7 +1,0 @@
-c:\users\kaktus\source\repos\SRP_ISP\SRP_ISP\bin\Debug\SRP_ISP.exe.config
-c:\users\kaktus\source\repos\SRP_ISP\SRP_ISP\bin\Debug\SRP_ISP.exe
-c:\users\kaktus\source\repos\SRP_ISP\SRP_ISP\bin\Debug\SRP_ISP.pdb
-c:\users\kaktus\source\repos\SRP_ISP\SRP_ISP\obj\Debug\SRP_ISP.csprojResolveAssemblyReference.cache
-c:\users\kaktus\source\repos\SRP_ISP\SRP_ISP\obj\Debug\SRP_ISP.csproj.CoreCompileInputs.cache
-c:\users\kaktus\source\repos\SRP_ISP\SRP_ISP\obj\Debug\SRP_ISP.exe
-c:\users\kaktus\source\repos\SRP_ISP\SRP_ISP\obj\Debug\SRP_ISP.pdb
