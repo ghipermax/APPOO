@@ -4,14 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SRP_ISP_bad
+namespace SRP_ISP
 {
-    public interface ICarDescription
+    interface ICarPrice
     {
-        string GetDescription();
-        string GetColor();
         double GetPrice();
-        double CalculatePriceAfterTax();
-
     }
 }
