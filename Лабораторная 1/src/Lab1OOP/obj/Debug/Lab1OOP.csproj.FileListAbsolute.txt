@@ -1,0 +1,7 @@
+c:\users\kaktus\source\repos\Lab1OOP\Lab1OOP\bin\Debug\Lab1OOP.exe.config
+c:\users\kaktus\source\repos\Lab1OOP\Lab1OOP\bin\Debug\Lab1OOP.exe
+c:\users\kaktus\source\repos\Lab1OOP\Lab1OOP\bin\Debug\Lab1OOP.pdb
+c:\users\kaktus\source\repos\Lab1OOP\Lab1OOP\obj\Debug\Lab1OOP.csprojResolveAssemblyReference.cache
+c:\users\kaktus\source\repos\Lab1OOP\Lab1OOP\obj\Debug\Lab1OOP.csproj.CoreCompileInputs.cache
+c:\users\kaktus\source\repos\Lab1OOP\Lab1OOP\obj\Debug\Lab1OOP.exe
+c:\users\kaktus\source\repos\Lab1OOP\Lab1OOP\obj\Debug\Lab1OOP.pdb
